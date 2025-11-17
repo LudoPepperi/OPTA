@@ -113,7 +113,7 @@ var CaruselData = [
 {
 
     title: '',
-    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_1.png',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_1_CA.jpg',
     description: '',
     buttonText: '',
     time: 5000,
@@ -122,7 +122,7 @@ var CaruselData = [
 {
 
     title: '',
-    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_2.png',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_2_TALLA.jpg',
     description: '',
     buttonText: '',
     time: 5000,
@@ -131,7 +131,7 @@ var CaruselData = [
 {
 
     title: '',
-    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_3.png',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_3_TAL.jpg',
     description: '',
     buttonText: '',
     time: 5000,
@@ -140,7 +140,7 @@ var CaruselData = [
 {
 
     title: '',
-    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_4.png',
+    imageURL: 'https://ludopepperi.github.io/OPTA/HOME_B2B_4_BLUSH.jpg',
     description: '',
     buttonText: '',
     time: 5000,
